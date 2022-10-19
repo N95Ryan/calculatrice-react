@@ -1,10 +1,8 @@
-# Calculatrice React.JS
+# Calculatrice React.js
 
 Bonjour à tous ! 👋
 
-Bienvenue à vous sur cette documentation. 
-
-Laissez moi vous expliquer plus précisémment de quoi il s'agit.
+Bienvenue à vous sur ce README.md, je vais vous expliquer plus précisémment de quoi il s'agit.
 
 ![Calculatice](https://user-images.githubusercontent.com/52971403/179360986-4d9b814c-7d0a-497d-8152-65325a74aa58.gif)
 
@@ -36,6 +34,7 @@ Je suis actif sur les réseaux sociaux, je vous laisse ci-dessous les plateforme
 
    - Mon portfolio : [ryan-pina.com](https://ryan-pina.com/)
    - Mon LinkedIn : [linkedin.com/in/ryan-pina-silasse](www.linkedin.com/in/ryan-pina-silasse)
+   - Mon Twitter : [https://twitter.com/https_imryan] (@https_imryan)
 
 
-Merci de votre attention ! 🙌
+Merci beaucoup ! 🙌
