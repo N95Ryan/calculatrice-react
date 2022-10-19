@@ -34,7 +34,7 @@ Je suis actif sur les réseaux sociaux, je vous laisse ci-dessous les plateforme
 
    - Mon portfolio : [ryan-pina.com](https://ryan-pina.com/)
    - Mon LinkedIn : [linkedin.com/in/ryan-pina-silasse](www.linkedin.com/in/ryan-pina-silasse)
-   - Mon Twitter : [https://twitter.com/https_imryan] (@https_imryan)
+   - Mon Twitter : [@https_imryan](https://twitter.com/https_imryan)
 
 
 Merci beaucoup ! 🙌
